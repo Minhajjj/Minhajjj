@@ -62,7 +62,7 @@ class WhoAmI:
 
 ## 📄 Resume
 
-📎 [Click here to view my resume](https://github.com/Minhajjj/Minhajjj/blob/main/Minhaj_CV.pdf)
+📎 [Click here to view my resume](https://github.com/Minhajjj/Minhajjj/blob/main/minhaj_cv%20.pdf)
 
 ---
 
