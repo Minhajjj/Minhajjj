@@ -21,33 +21,33 @@ class WhoAmI:
     user = 'Minhaj'
     current_work = 'Building full-stack web apps'
     city = 'Islamabad, Pakistan'
-    tech_stack = ['MongoDB', 'Express.js', 'React', 'Node.js']
+    tech_stack = ['MongoDB', 'Next.js', 'React', 'Node.js', 'Tailwind CSS']
     hobbies = ['Debugging in the dark', 'Scrolling through dev memes', 'Building side projects at 2AM']
 
     def getCity():
         return "Islamabad, Pakistan"
 
     def goals():
-        return ['Master MERN stack', 'Explore DevOps', 'Build something awesome']
+        return ['Master Next.Js Framework', 'Explore DevOps', 'Build something awesome']
 ```
 
 ---
 
 ## ⚙️ Tech I Work With
 
-### 💻 Languages
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width='30'/>
+### 💻 Languages  
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' width='30'/>
 
 
-### 🛠️ Tools & Stack
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width='30'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width='30'/>
+### 🛠️ Tools & Stack  
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' width='30'/><img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' width='30'/>    
 
 
 ---
 
 ## 🚀 Current Work
 
-- 🏨 Building a **Hotel Booking Web App** using the MERN stack
+- 🏨 Building a **E Web App** using the MERN stack
 - 🤖 Exploring **Java-based desktop apps** and **backend logic**
 - 💡 Improving debugging speed and Git fluency
 
